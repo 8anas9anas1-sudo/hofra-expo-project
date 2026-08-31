@@ -24,6 +24,11 @@
       "permissions": [
         "android.permission.VIBRATE"
       ]
+    },
+    "extra": {
+      "eas": {
+        "projectId": "91852909-d150-425b-b557-ff600a7de548"
+      }
     }
   }
 }
